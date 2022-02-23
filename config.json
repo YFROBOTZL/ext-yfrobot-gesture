@@ -1,0 +1,25 @@
+{
+  "name": {
+    "zh-cn": "手势传感器 APDS-9960",
+    "en": "APDS-9960 RGB and Gesture Sensor"
+  },
+  "description": {
+    "zh-cn": "YFROBOT 手势传感器：可以识别向上、向下、向左、向右、靠近、远离等手势。",
+    "en": "This sensor offers ambient light and color measuring, proximity detection, and touchless gesture sensing."
+  },
+  "author": "YFROBOT",
+  "email": "yfrobot@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "yfrobot_apds9960",
+  "version": "0.0.1",
+  "platform": ["win", "mac", "web"],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": ["arduino","arduinounor3","arduinonano","leonardo","mega2560","esp32"],
+      "main": "main.ts"
+    }
+  }
+}
