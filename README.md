@@ -36,8 +36,8 @@ arduino uno        |             |       √已测试       |             |
 micro:bit        |             |       √未测试       |             | 
 mpython掌控板        |             |        √未测试      |             | 
 ESP32        |             |        √未测试      |             | 
-ESP8266        |             |        √未测试      |             | 
-Pico        |             |        √未测试      |             | 
+ESP8266        |             |        x未测试      |             | 
+Pico        |             |        x未测试      |             | 
 
 
 ## 更新日志 Release Note
