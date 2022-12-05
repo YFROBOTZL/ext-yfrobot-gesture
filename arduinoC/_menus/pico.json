@@ -1,0 +1,131 @@
+{
+    "INTPIN": {
+        "menu": [
+            ["0", "0"],
+            ["1", "1"],
+            ["2", "2"],
+            ["3", "3"],
+            ["4", "4"],
+            ["5", "5"],
+            ["6", "6"],
+            ["7", "7"],
+            ["8", "8"],
+            ["9", "9"],
+            ["10", "10"],
+            ["11", "11"],
+            ["12", "12"],
+            ["13", "13"],
+            ["14", "14"],
+            ["15", "15"],
+            ["16", "16"],
+            ["17", "17"],
+            ["18", "18"],
+            ["19", "19"],
+            ["20", "20"],
+            ["21", "21"],
+            ["22", "22"],
+            ["26", "26"],
+            ["27", "27"],
+            ["28", "28"]
+        ],
+        "default_intpin": "0"
+    },
+    "SDA": {
+        "menu": [
+            ["SDA0-0", "0"],
+            ["SDA1-2", "2"],
+            ["SDA0-4", "4"],
+            ["SDA1-6", "6"],
+            ["SDA0-8", "8"],
+            ["SDA1-10", "10"],
+            ["SDA0-12", "12"],
+            ["SDA1-14", "14"],
+            ["SDA0-16", "16"],
+            ["SDA1-18", "18"],
+            ["SDA0-20", "20"],
+            ["SDA1-26", "26"]
+        ],
+        "default_sda": "SDA0-4"
+    },
+    "SCL": {
+        "menu": [
+            ["SCL0-1", "1"],
+            ["SCL1-3", "3"],
+            ["SCL0-5", "5"],
+            ["SCL1-7", "7"],
+            ["SCL0-9", "9"],
+            ["SCL1-11", "11"],
+            ["SCL0-13", "13"],
+            ["SCL1-15", "15"],
+            ["SCL0-17", "17"],
+            ["SCL1-19", "19"],
+            ["SCL0-21", "21"],
+            ["SCL1-27", "27"]
+        ],
+        "default_scl": "SCL0-5"
+    },
+    "SER": {
+        "menu": [
+            ["Serial", "Serial"]
+        ],
+        "default_beginSerial": "Serial"
+    },
+    "SSER": {
+        "menu": [
+            ["softwareSerial1", "softwareSerial1"],
+            ["softwareSerial2", "softwareSerial2"],
+            ["softwareSerial3", "softwareSerial3"],
+            ["softwareSerial4", "softwareSerial4"]
+        ],
+        "default_beginSoftSerial": "softwareSerial1"
+    },
+    "TXD": {
+        "menu": [
+            ["UART0T-0", "0"],
+            ["UART0T-12", "12"],
+            ["UART0T-16", "16"],
+            ["UART1T-4", "4"],
+            ["UART1T-8", "8"]
+        ],
+        "default_beginSerial": "UART0T-0"
+    },
+
+    "RXD": {
+        "menu": [
+            ["UART0R-1", "1"],
+            ["UART0R-13", "13"],
+            ["UART0R-17", "17"],
+            ["UART1R-5", "5"],
+            ["UART1R-9", "9"]
+        ],
+        "default_beginSerial": "UART0R-1"
+    },
+    "SSTXD": {
+        "menu": [
+            ["UART0T-0", "0"],
+            ["UART0T-12", "12"],
+            ["UART0T-16", "16"],
+            ["UART1T-4", "4"],
+            ["UART1T-8", "8"]
+        ],
+        "default_beginSerial": "UART0T-0"
+    },
+    "SSRXD": {
+        "menu": [
+            ["UART0R-1", "1"],
+            ["UART0R-13", "13"],
+            ["UART0R-17", "17"],
+            ["UART1R-5", "5"],
+            ["UART1R-9", "9"]
+        ],
+        "default_beginSerial": "UART0R-1"
+    },
+    "APIN": {
+        "menu": [
+            ["A0", "26"],
+            ["A1", "27"],
+            ["A2", "28"]
+        ],
+        "default_apin": "A0"
+    }
+}

@@ -35,9 +35,13 @@ MIT
 arduino uno        |             |       √已测试       |             | 
 micro:bit        |             |       √未测试       |             | 
 mpython掌控板        |             |        √未测试      |             | 
+ESP32        |             |        √未测试      |             | 
+ESP8266        |             |        √未测试      |             | 
+Pico        |             |        √未测试      |             | 
 
 
 ## 更新日志 Release Note
+- V0.0.2  更新c库文件，修复已知bug
 - V0.0.1  基础功能完成，Mind+V1.7.1 RC2.0版本软件测试
 
 
